@@ -1,0 +1,14 @@
+p,
+.znak {
+    background-color: red;
+    width: 100px;
+    height: 100px
+}
+
+.znak {
+    background-color: blue;
+}
+
+.kot {
+    opacity: 0.5;
+}
